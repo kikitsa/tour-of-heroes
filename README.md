@@ -4,3 +4,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Description
 An angular project with 5 components which displays a list of heroes, allowing the user to add, edit and delete a hero.
+This application has been implemented according to the tutorial under the official page of Angular.
